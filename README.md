@@ -21,3 +21,8 @@ Repository containing the certificates I earned through out my journey on learni
 <img src="https://i.imgur.com/M96jakO.png
 "/>
 
+<h1><a href="https://freecodecamp.org/certification/fcc1fc2d239-d0fd-4313-8b14-23608cacb5f9/front-end-development-libraries">FreeCodeCamp's Front End Libraries Certificate/a></h1>
+![image](https://user-images.githubusercontent.com/91674419/213918263-423f3bfb-8df4-4ebb-b2a2-af8e435ad39b.png)
+
+
+
